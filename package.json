@@ -1,6 +1,6 @@
 {
   "name": "@saeedha/math-power",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "do power 2 digits",
   "main": "src/index.js",
   "scripts": {
