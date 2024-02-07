@@ -1,0 +1,26 @@
+{
+  "name": "@saeedha/math-power",
+  "version": "1.0.0",
+  "description": "do power 2 digits",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeidha/math-power.git"
+  },
+  "keywords": [
+    "power",
+    "math"
+  ],
+  "author": "saeedha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saeidha/math-power/issues"
+  },
+  "homepage": "https://github.com/saeidha/math-power#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
