@@ -1,6 +1,6 @@
 {
   "name": "@saeedha/math-power",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "do power 2 digits",
   "main": "src/index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/saeidha/math-power#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/saeidha"
   }
 }
