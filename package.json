@@ -22,5 +22,8 @@
   "homepage": "https://github.com/saeidha/math-power-dev#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@saeedha/math-first": "^1.1.4"
   }
 }

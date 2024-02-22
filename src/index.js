@@ -1,3 +1,4 @@
+const package = require('@saeedha/math-first');
 function powerDigits(number) {
     // Handle negative numbers and decimals if needed
     number = Math.trunc(number); // Truncate decimals in JavaScript
