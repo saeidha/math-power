@@ -1,6 +1,6 @@
 {
   "name": "@saeedha/math-power-dev",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "do power 2 digits",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saeidha/math-power-dev.git"
+    "url": "https://github.com/saeidha/math-power-dev.git"
   },
   "keywords": [
     "power",
